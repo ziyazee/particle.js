@@ -1,0 +1,25 @@
+{
+  "particles":{
+    "number":{
+      "value":350
+    },
+    "color":{
+      "value":"#cfd8dc"
+    },
+    "opacity":{
+    "value":0.7
+    },
+    "size":{
+      "value": 7,
+      "random":false
+    },
+    "line_linked":{
+      
+     
+      "color":"#000"
+      
+    }
+    
+  }
+  
+}
